@@ -1,0 +1,4 @@
+#A00465648
+Public int average (int a, int b) {
+return math.avg(a,b);
+}
