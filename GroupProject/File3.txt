@@ -1,4 +1,8 @@
 #A00466297
 Public int max (int a, int b) {
 return Math.max(a,b);
+
+#A00465648
+Public int average (int a, int b) {
+return Math.avg(a,b);
 }
