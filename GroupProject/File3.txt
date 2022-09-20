@@ -7,3 +7,8 @@ Public int max (int a, int b) {
 Public int average (int a, int b) {
 	return Math.avg(a,b);
 }
+
+#A00465959
+Public int pow (int a, int b) {
+	return Math.pow(a,b);
+}
